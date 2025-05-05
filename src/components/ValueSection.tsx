@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { TreeDeciduous, Sun, Plant } from 'lucide-react';
+import { TreeDeciduous, Sun, Flower } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
 const ValueSection = () => {
@@ -20,7 +20,7 @@ const ValueSection = () => {
           <Card className="bg-white/80 border border-nature-100 shadow-sm hover:shadow-md transition-soft">
             <CardHeader className="text-center pb-2">
               <div className="mx-auto bg-nature-100 p-3 rounded-full w-16 h-16 flex items-center justify-center mb-4">
-                <Plant className="h-8 w-8 text-nature-500" />
+                <Flower className="h-8 w-8 text-nature-500" />
               </div>
               <CardTitle className="text-xl font-medium">Flexible Pflege</CardTitle>
             </CardHeader>
