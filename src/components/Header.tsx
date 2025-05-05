@@ -8,7 +8,7 @@ const Header = () => {
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center gap-2">
           <Flower className="h-6 w-6 text-nature-500" />
-          <span className="text-lg font-medium text-foreground">GrabPflege</span>
+          <span className="text-lg font-medium text-foreground">Friedhofsfreund</span>
         </div>
         <nav className="hidden md:flex items-center gap-6">
           <a href="#service" className="text-muted-foreground hover:text-foreground transition-soft">Service</a>
