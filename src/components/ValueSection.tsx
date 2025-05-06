@@ -68,8 +68,8 @@ const ValueSection = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div className="rounded-lg overflow-hidden h-80">
               <img 
-                src="https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1287&q=80" 
-                alt="Friedhof mit Bäumen" 
+                src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=1287&q=80" 
+                alt="Grabstätte mit Blumengestecken" 
                 className="w-full h-full object-cover"
               />
             </div>
