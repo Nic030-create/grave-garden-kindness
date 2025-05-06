@@ -9,14 +9,14 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="relative min-h-screen flex items-center bg-gradient-to-b from-background to-nature-50 pt-16">
+    <section className="relative min-h-screen flex items-center bg-warmth-50 pt-16">
       <div className="absolute inset-0 z-0 opacity-40">
         <img 
           src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=2070&q=80" 
           alt="Blumen auf einem Grab" 
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-warmth-50 via-warmth-50/80 to-transparent"></div>
       </div>
       
       <div className="container mx-auto px-4 py-12 z-10 animate-fade-in-slow">
