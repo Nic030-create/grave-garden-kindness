@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { TreeDeciduous, Sun, Flower } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
@@ -8,9 +7,7 @@ const ValueSection = () => {
     <section id="service" className="py-20 bg-background">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16 animate-fade-in">
-          <h2 className="text-3xl md:text-4xl font-semibold mb-6 text-foreground">
-            Unser flexibler Grabpflege-Service – monatlich kündbar
-          </h2>
+          <h2 className="text-3xl md:text-4xl font-semibold mb-6 text-foreground">Unser flexibler Grabpflege Service – monatlich kündbar</h2>
           <p className="text-lg text-muted-foreground">
             Mit unserem Service können Sie sicher sein, dass die letzte Ruhestätte Ihrer Lieben in liebevoller Pflege bleibt.
           </p>
