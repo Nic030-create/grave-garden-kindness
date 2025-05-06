@@ -9,10 +9,16 @@ const ValueSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16 animate-fade-in">
           <h2 className="text-3xl md:text-4xl font-semibold mb-6 text-foreground">
-            Wir bieten einen monatlich kündbaren Grabpflege-Service
+            Unser flexibler Grabpflege-Service – monatlich kündbar
           </h2>
           <p className="text-lg text-muted-foreground">
-            Wir bieten einen flexiblen, monatlich kündbaren Abo-Service für Grabpflege, damit Sie sich keine Sorgen um die Pflege Ihrer Lieben machen müssen. Unser Service wird von Menschen durchgeführt, die Unterstützung brauchen, wie Rentner, Studierende und Menschen mit Behinderung.
+            Mit unserem Service können Sie sicher sein, dass die letzte Ruhestätte Ihrer Lieben in liebevoller Pflege bleibt.
+          </p>
+          <p className="text-lg text-muted-foreground mt-4">
+            Gleichzeitig unterstützen Sie eine gute Sache: Durch unsere Arbeit schaffen wir Arbeitsplätze für Menschen, die auf dem traditionellen Arbeitsmarkt oft Schwierigkeiten haben. Unter anderem betrifft dies oft Menschen mit Behinderung, Rentner und Studierende und Menschen.
+          </p>
+          <p className="text-lg text-muted-foreground mt-4">
+            Damit fördern Sie gleichzeitig auch die soziale Integration und Teilhabe dieser Menschen in unserer Gesellschaft.
           </p>
         </div>
         
