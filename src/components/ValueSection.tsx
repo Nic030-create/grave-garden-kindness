@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { TreeDeciduous, Sun, Flower } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
@@ -79,7 +80,7 @@ const ValueSection = () => {
                 Gleichzeitig wissen wir, dass nicht jeder die Zeit oder die Möglichkeit hat, regelmäßig das Grab zu besuchen und zu pflegen.
               </p>
               <p className="text-muted-foreground">
-                Mit unserem Service möchten wir nicht nur für würdevolle Grabpflege sorgen, sondern auch Menschen unterstützen, die oft Schwierigkeiten haben, eine Beschäftigung zu finden.
+                Mit unserem Service unterstützen wir au­ßer­dem Menschen, die oft Schwierigkeiten haben eine Beschäftigung zu finden.
               </p>
             </div>
           </div>
